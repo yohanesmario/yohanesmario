@@ -20,3 +20,5 @@ func main() {
 ```
 [![Mario's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanesmario)
 [![Mario's Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yohanes.mc@gmail.com)
+
+[![Ohana Space Website](https://img.shields.io/badge/ohanaspace.id-629CD4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ohanaspace.id)
